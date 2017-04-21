@@ -1,8 +1,13 @@
 # vue-todos
 
-> VueJS 入门示例
+> Vue2 待办事项示例
 
 ## 安装
+
+   $ npm run i
+   
+
+## 运行本示例
 
 ```
 $ npm run dev
@@ -10,4 +15,3 @@ $ npm run dev
 
 [在线示例](https://dotnetage.github.io/vue-todos/)
 
-本示例将包含于《Vue实践揭秘》之中。
