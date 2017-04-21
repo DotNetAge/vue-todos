@@ -7,11 +7,13 @@
      $ npm run i
    
 
-## 运行本示例
+## 运行示例
 
 ```
 $ npm run dev
 ```
 
-[在线示例](https://dotnetage.github.io/vue-todos/)
+## 在线演示
+
+点击以下链接打开运行本示例: [在线演示](https://dotnetage.github.io/vue-todos/)
 
