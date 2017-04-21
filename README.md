@@ -4,7 +4,7 @@
 
 ## 安装
 
-   $ npm run i
+     $ npm run i
    
 
 ## 运行本示例
